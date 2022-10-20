@@ -1,0 +1,4 @@
+/home/qy/works/class32_xianchengchi/build/CMakeFiles/mythread_pool_test.dir
+/home/qy/works/class32_xianchengchi/build/CMakeFiles/client.dir
+/home/qy/works/class32_xianchengchi/build/CMakeFiles/edit_cache.dir
+/home/qy/works/class32_xianchengchi/build/CMakeFiles/rebuild_cache.dir

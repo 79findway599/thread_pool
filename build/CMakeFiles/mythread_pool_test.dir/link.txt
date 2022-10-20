@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/mythread_pool_test.dir/myThread_pool_test.c.o CMakeFiles/mythread_pool_test.dir/src/myThread_pool.c.o -o /home/qy/works/class32_xianchengchi/bin/mythread_pool_test  -lpthread 

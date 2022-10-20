@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/client.dir/Client/myThread_pool_client.c.o -o /home/qy/works/class32_xianchengchi/bin/client 
